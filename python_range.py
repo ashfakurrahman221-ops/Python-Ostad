@@ -1,0 +1,8 @@
+a = list(range(10))
+b =tuple(range(10))
+c = list(range(1,100,1))
+d = tuple(range(2,100,2))
+print(a)
+print(b)
+print(c)
+print(d)
